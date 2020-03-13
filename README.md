@@ -1,6 +1,6 @@
 # Manage the state of a Symfony-React application with Mobx
 
-## introduction
+## Introduction
 
 State management is one of the most important aspect of any software application, especially web and mobile apps. The ability to create, retrieve and reuse application data from different page component often facilitate things for software developers.
 
