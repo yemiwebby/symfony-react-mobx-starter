@@ -2,9 +2,9 @@
 
 ## Introduction
 
-State management is one of the most important aspect of any software application, especially web and mobile apps. The ability to create, retrieve and reuse application data from different page component often facilitate things for software developers.
+State management is one of the most important aspects of any software application, especially web and mobile apps. The ability to create, retrieve and reuse application data from different page components often facilitate things for software developers.
 
-In this tutorial, I will show you how to manage the state of application data within web application built with Symfony and React. Earlier in a previous article. I covered the step by step guide involved in [Building a Single Page Application with Symfony PHP and React](https://www.twilio.com/blog/building-a-single-page-application-with-symfony-php-and-react). In that article, I covered every basic fundamental knowledge required to set up and combine the power of Symfony APIs and handling of frontend logics of an app with React.
+In this tutorial, I will show you how to manage the state of application data within web applications built with Symfony and React. Earlier in a previous article. I covered the step by step guide involved in [Building a Single Page Application with Symfony PHP and React](https://www.twilio.com/blog/building-a-single-page-application-with-symfony-php-and-react). In that article, I covered every basic fundamental knowledge required to set up and combine the power of Symfony APIs and handling of frontend logics of an app with React.
 
 We will leverage the knowledge gained from that article and enhance it by adding state management using MobX. Rather than start from scratch, I am going to extend the previous application.
 
@@ -252,7 +252,7 @@ Here, we created functions to:
 
 ## Creating application components
 
-React applications are always best structured as a self-contained modules also known as components. We will create a couple of components for our application.
+React applications are always best structured as a self-contained module also known as a component. We will create a couple of components for our application.
 
 
 ## Creating the cart component
